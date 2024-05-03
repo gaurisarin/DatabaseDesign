@@ -1,7 +1,7 @@
 Steps to run project.ipynb
 
 1. 
-Download the DaleyPOjukoBSarinGFinalProject and unzip the folder and save
+Download the SQLBooksDatabaseProject and unzip the folder and save
 
 2. 
 Ensure you have python installed, MYSQL Workbench and PyMySQL installed on your system
