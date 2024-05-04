@@ -1,4 +1,4 @@
-# SQL and Python Database Project
+# SQL Work
 
 This repository contains two main folders with distinct projects related to SQL programming and a Python-based book database. Below is an overview of each folder and its contents.
 
